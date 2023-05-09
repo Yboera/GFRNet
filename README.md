@@ -1,4 +1,6 @@
 # GFRNet
-The saliency maps can be download from Baidu Driver (PSW: tcy8).
+The saliency maps can be download from [Baidu Driver](https://pan.baidu.com/s/1UCgpKYhnqdjcROtJ1Zsa3A) (PSW: 87ey).
 
-The code is coming soon.
+
+
+ 
