@@ -3,7 +3,12 @@ Official code repository for paper **Guided Focal Stack Refinement Network for L
 Coming soon!
 
 ## Overall Architecture
-![Overall architecture of GFRNet](picture/network.png)
+<p align="center">
+    <img src="picture/network.png" width="100%"/> <br />
+ <em> 
+     Overall architecture of the proposed GFRNet.
+    </em>
+</p>
 
 ## Inference
 Download the pretrained model at [Baidu Driver](https://pan.baidu.com/s/1n0TT-R5oqmk4lZ_K9d0rGw) (PSW: xmhu).
